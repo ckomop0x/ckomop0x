@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome
+
+I have 10+ years of web-related experience and 5 of them with React. I help to build modular solutions with clean and performant structure and code. Highly motivated. I'm always open-minded and goal-oriented.
 
 <!--
 **ckomop0x/ckomop0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
