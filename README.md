@@ -6,5 +6,5 @@ My main scope is Frontend, where I'm focused on architecture, clean, and perform
 I'm highly motivated, open-minded, goal-oriented. I keen on IT-transformation and cloud technologies. 
 
 <p align="left">
-    <img src="(https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-fundamentals-600x600.png" height="100" />
+    <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-fundamentals-600x600.png" height="100" />
 </p>
