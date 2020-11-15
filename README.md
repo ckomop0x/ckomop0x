@@ -10,7 +10,7 @@ Certified Microsoft Azure Developer
     <a href="https://www.youracclaim.com/earner/earned/badge/dd136db4-a63b-4743-8341-5498413bf659" target="_blank" rel="noopener noreferrer">
         <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-fundamentals-600x600.png" height="100" />
     </a>
-    <a href="https://www.youracclaim.com/earner/earned/badge/dd136db4-a63b-4743-8341-5498413bf659" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.youracclaim.com/earner/earned/badge/835d4d0d-bf05-4703-801c-fd117209af72" target="_blank" rel="noopener noreferrer">
         <img src="https://images.youracclaim.com/size/220x220/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" height="100" />
     </a>
     
