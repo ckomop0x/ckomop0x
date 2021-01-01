@@ -18,3 +18,6 @@ I'm highly motivated, open-minded, goal-oriented. I keen on IT-transformation an
     </a>
        
 </div>
+
+<a href="https://www.codewars.com/users/ckomop0x/"><img height="30" src="https://www.codewars.com/users/ckomop0x/badges/micro"></a>
+</p>
