@@ -7,7 +7,7 @@ I'm highly motivated, open-minded, goal-oriented. I keen on IT-transformation an
 
 <div align="center">
 **Certified Microsoft Azure Administrator and Developer**
-    <div align="left">
+    <div>
         <a href="https://www.youracclaim.com/earner/earned/badge/dd136db4-a63b-4743-8341-5498413bf659" target="_blank" rel="noopener noreferrer">
             <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-fundamentals-600x600.png" height="100" />
         </a>
