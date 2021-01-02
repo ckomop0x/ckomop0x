@@ -20,6 +20,7 @@ I'm highly motivated, open-minded, goal-oriented. I keen on IT-transformation an
     </div>
 </div>
 
+<br>
 <p align="center">
 <a href="https://www.linkedin.com/in/ckomop0x/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/001-linkedin.svg"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/ckomop0x/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/002-instagram.svg"></a>&nbsp;&nbsp;
