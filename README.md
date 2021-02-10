@@ -6,7 +6,7 @@ My main scope is Frontend, where I'm focused on architecture, clean, and perform
 I'm highly motivated, open-minded, goal-oriented. I keen on IT-transformation and cloud technologies. I do a lot of study. Very keen to clooud and cloud development.
 
 <div align="center">
-    <h4>Certified Microsoft Azure Administrator and Developer</h4>
+    <h4>Senior Frontend Developer 🎓 Microsoft Azure Certified</h4>
     <div>
         <a href="https://www.youracclaim.com/earner/earned/badge/dd136db4-a63b-4743-8341-5498413bf659" target="_blank" rel="noopener noreferrer">
             <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-fundamentals-600x600.png" height="100" />
