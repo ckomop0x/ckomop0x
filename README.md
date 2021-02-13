@@ -17,6 +17,9 @@ I'm highly motivated, open-minded, goal-oriented. I keen on IT-transformation an
         <a href="https://www.youracclaim.com/earner/earned/badge/835d4d0d-bf05-4703-801c-fd117209af72" target="_blank" rel="noopener noreferrer">
             <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-developer-associate-600x600.png" height="100" />
         </a>
+        <a href="https://www.youracclaim.com/earner/earned/badge/050dc8e2-a291-44f7-955e-e91dcff34d9b" target="_blank" rel="noopener noreferrer">
+            <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-security-associate-600x600.png" height="100" />
+        </a>
     </div>
 </div>
 
