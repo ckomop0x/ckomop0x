@@ -29,3 +29,5 @@ I'm highly motivated, open-minded, goal-oriented. I keen on IT-transformation an
 <a href="https://www.instagram.com/ckomop0x/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/002-instagram.svg"></a>&nbsp;&nbsp;
 <a href="https://www.codewars.com/users/ckomop0x/"><img height="30" src="https://www.codewars.com/users/ckomop0x/badges/micro"></a>
 </p>
+
+<img src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQEPbHK1ekCOHw/articleshare-shrink_800/0/1613987984243?e=1614078000&v=beta&t=IJzzVFZUlgwghO4IxCWqeaKhHjdK_HDG6or-bOyPZe4" alt="Pavel Klochkov 2020 Skyline" width="100%">
