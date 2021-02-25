@@ -6,19 +6,19 @@ My main scope is Frontend, where I'm focused on architecture, clean, and perform
 I'm highly motivated, open-minded, goal-oriented. I keen on IT-transformation and cloud technologies. I do a lot of study. Very keen to clooud and cloud development.
 
 <div align="center">
-    <h4>Senior Frontend Developer 🎓 Microsoft Azure Certified</h4>
-    <div>
-        <a href="https://www.youracclaim.com/earner/earned/badge/dd136db4-a63b-4743-8341-5498413bf659" target="_blank" rel="noopener noreferrer">
-            <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-fundamentals-600x600.png" height="100" />
-        </a>
+    <h4>Senior Frontend Developer 🎓 Microsoft Azure Solutions Architect</h4>
+    <div>        
         <a href="https://www.youracclaim.com/badges/835d4d0d-bf05-4703-801c-fd117209af72" target="_blank" rel="noopener noreferrer">
-            <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-administrator-associate-600x600.png" height="100" />
+            <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-administrator-associate-600x600.png" height="100" alt="Pavel Klochkov – Microsoft Azure Administrator"/>
         </a> 
         <a href="https://www.youracclaim.com/earner/earned/badge/835d4d0d-bf05-4703-801c-fd117209af72" target="_blank" rel="noopener noreferrer">
-            <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-developer-associate-600x600.png" height="100" />
+            <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-developer-associate-600x600.png" height="100"  alt="Pavel Klochkov – Microsoft Azure Developer"/>
         </a>
         <a href="https://www.youracclaim.com/earner/earned/badge/050dc8e2-a291-44f7-955e-e91dcff34d9b" target="_blank" rel="noopener noreferrer">
-            <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-security-engineer-associate-600x600.png" height="100" />
+            <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-security-engineer-associate-600x600.png" height="100"  alt="Pavel Klochkov – Microsoft Azure Security Engineer"/>
+        </a>
+        <a href="https://www.youracclaim.com/earner/earned/badge/d030e807-601d-4964-a627-5473cfdd2763" target="_blank" rel="noopener noreferrer">
+            <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-solutions-architect-expert-600x600.pngg" height="100"  alt="Pavel Klochkov – Microsoft Azure Solutions Architect"/>
         </a>
     </div>
 </div>
