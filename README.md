@@ -18,7 +18,7 @@ I'm highly motivated, open-minded, goal-oriented. I keen on IT-transformation an
             <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-security-engineer-associate-600x600.png" height="100"  alt="Pavel Klochkov – Microsoft Azure Security Engineer"/>
         </a>
         <a href="https://www.youracclaim.com/earner/earned/badge/d030e807-601d-4964-a627-5473cfdd2763" target="_blank" rel="noopener noreferrer">
-            <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-solutions-architect-expert-600x600.pngg" height="100"  alt="Pavel Klochkov – Microsoft Azure Solutions Architect"/>
+            <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-solutions-architect-expert-600x600.png" height="100"  alt="Pavel Klochkov – Microsoft Azure Solutions Architect"/>
         </a>
     </div>
 </div>
