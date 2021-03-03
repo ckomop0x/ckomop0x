@@ -1,9 +1,9 @@
 <h3> Hello, I'm Pavel Klochkov</h3> 
-I have more than 10 years of web development experience. 
+More than 12 years of total experience, with 7 years in Frontend.  I'm focused on architecture, clean, and performant code. I have experience with different structures solutions: monolith, modular, serverless in on-premises, cloud, and hybrid environments.
 
-My main scope is Frontend, where I'm focused on architecture, clean, and performant code. I have experience with different app structures solutions: monolith, modular, serverless in on-premises, cloud, and hybrid environments. 
+Highly motivated, open-minded, goal-oriented. I keen on digital-transformation and cloud technologies.
 
-I'm highly motivated, open-minded, goal-oriented. I keen on IT-transformation and cloud technologies. I do a lot of study. Very keen to clooud and cloud development.
+In my free time, I do a lot of studies, participate in pet and open-source projects. Also, I mentor developers of all levels. Enjoy life, music, photo and travel.
 
 <div align="center">
     <h4>Senior Frontend Developer 🎓 Microsoft Azure Solutions Architect</h4>
