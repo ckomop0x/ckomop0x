@@ -2,6 +2,10 @@
 <p>More than 12 years of total experience, with 7 years in Frontend.  I'm focused on architecture, clean, and performant code. I have experience with different structures solutions: monolith, modular, serverless in on-premises, cloud, and hybrid environments. Highly motivated, open-minded, goal-oriented. I keen on digital-transformation and cloud technologies.</p>
 <p>In my free time, I do a lot of studies, participate in pet and open-source projects. Also, I mentor developers of all levels. Enjoy life, music, photo and travel.</p>
 
+Open source projects:
+- <a href="https://create-html-boilerplate.dev/" target="_blank" rel="noopener norefferer" title="Create HTML boilerplate">Create HTML boilerplate</a>
+- <a href="https://github.com/webtime-studio/gatsby-typescript-starter" target="_blank" rel="noopener norefferer" title="Create HTML boilerplate">Gatsby TypeScript template</a>
+
 <div align="center">
     <h4>Senior Frontend Developer 🎓 Microsoft Azure Solutions Architect</h4>
     <div>        
