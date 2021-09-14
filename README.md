@@ -7,7 +7,7 @@ Open source projects:
 - <a href="https://github.com/webtime-studio/gatsby-typescript-starter" target="_blank" rel="noopener norefferer" title="Create HTML boilerplate">Gatsby TypeScript template</a>
 
 <div align="center">
-    <h4>Senior Frontend Developer 🎓 Microsoft Azure Solutions Architect</h4>
+    <h4>Front End Architect 🎓 Microsoft Azure Solutions Architect</h4>
     <div>        
         <a href="https://www.youracclaim.com/badges/835d4d0d-bf05-4703-801c-fd117209af72" target="_blank" rel="noopener noreferrer">
             <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-administrator-associate-600x600.png" height="100" alt="Pavel Klochkov – Microsoft Azure Administrator"/>
