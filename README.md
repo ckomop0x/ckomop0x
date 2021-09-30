@@ -1,6 +1,7 @@
 <h3> Hello, I'm Pavel Klochkov</h3> 
-<p>More than 12 years of total experience, with 7 years in Frontend.  I'm focused on architecture, clean, and performant code. I have experience with different structure solutions: monolith, modular, serverless in on-premises, cloud, and hybrid environments. Highly motivated, open-minded, goal-oriented. I keen on digital-transformation and cloud technologies.</p>
-<p>In my free time, I do a lot of studies, participate in pet and open-source projects. Also, I mentor developers of all levels. Enjoy life, music, photo and travel.</p>
+<p>With solid experience after 12+ years of Web, 10+ years of Frontend, and 5+ years of commercial React/TypeScript development. Team player with experience in leading distributed frontend teams. Focus on architecture, performance, stability, and user experience.</p>
+<p>In my free time, I do many studies to keep my skills up-to-date, have wide knowledge in related fields. I participate in pet and open-source projects, mentor developers of all levels.</p>
+
 
 Open source projects:
 - <a href="https://create-html-boilerplate.dev/" target="_blank" rel="noopener norefferer" title="Create HTML boilerplate">Create HTML boilerplate</a>
