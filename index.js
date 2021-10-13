@@ -12,7 +12,7 @@ const puppeteer = require('puppeteer');
   const [hoursString, minutesString] = value.split('h')
   await browser.close();
 
-  const resultText = `<p><b>Pluralsight activity: ${parseInt(hoursString, 10)} hours, ${parseInt(minutesString)} minutes</b><p>` || ''
+  const resultText = `<p>Pluralsight activity: ${parseInt(hoursString, 10)} hours, ${parseInt(minutesString)} minutes<p>` || ''
 
   console.log(resultText)
 })();
