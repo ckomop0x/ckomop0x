@@ -4,7 +4,7 @@
   Open source projects:
   - <a href="https://create-html-boilerplate.dev/" target="_blank" rel="noopener norefferer" title="Create HTML boilerplate">Create HTML boilerplate</a>
   - <a href="https://github.com/webtime-studio/gatsby-typescript-starter" target="_blank" rel="noopener norefferer" title="Create HTML boilerplate">Gatsby TypeScript template</a>
-<p><b>Pluralsight activity: 331 hours, 29 minutes</b><p>
+<p>Pluralsight activity: 331 hours, 29 minutes<p>
 <div align="center">
     <h4>Front End Architect 🎓 Microsoft Azure Solutions Architect</h4>
     <div>
