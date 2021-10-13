@@ -4,10 +4,8 @@ on:
   push:
       branches:
         - master
-on:
-  push:
   schedule:
-    - cron: "0 20 * * *"
+      - cron: "0 20 * * *"
 
 jobs:
   build:
