@@ -4,10 +4,10 @@ on:
   push:
       branches:
         - master
-# on:
-#   push:
-#   schedule:
-#     - cron: "*/10 * * * *"
+on:
+  push:
+  schedule:
+    - cron: "0 20 * * *"
 
 jobs:
   build:
