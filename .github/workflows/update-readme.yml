@@ -3,7 +3,7 @@ name: Update GitHub Profile README
 on:
   push:
       branches:
-        - main
+        - master
 # on:
 #   push:
 #   schedule:
