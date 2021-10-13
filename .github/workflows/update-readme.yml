@@ -69,6 +69,6 @@ jobs:
                     <a href="https://www.codewars.com/users/ckomop0x/"><img height="30" src="https://www.codewars.com/users/ckomop0x/badges/micro"></a>
                     </p>
            footer: "<p>Learn more about me at [ckomop0x.me](https://ckomop0x.me)!</p>"
-           ref: "main"
+           ref: "master"
            excludeActivity: '["WatchEvent"]'
            excludeRepo: '["ckomop0x/ckomop0x"]'
