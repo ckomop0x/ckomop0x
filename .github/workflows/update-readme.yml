@@ -15,16 +15,16 @@ jobs:
     strategy:
       matrix:
         node-version: [14.x]
-    name: Get Plurasight Activity
     steps:
+      - name: Get Plurasight Activity
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
           node-version: ${{ matrix.node-version }}
       - run: yarn install --frozen-lockfile
       - run: echo "activity-value=$(node index.js)" >> $GITHUB_ENV
-    name: Update GitHub Profile README
     steps:
+      - name: Update GitHub Profile README
       - uses: theboi/github-update-readme@main
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
