@@ -36,13 +36,15 @@ jobs:
 
                ${footer}
            header: "<h3> Hello, I'm Pavel Klochkov</h3>"
-           repoCount: 0
+
            subhead: |
                     <p>With solid experience after 12+ years of Web, 10+ years of Frontend, and 5+ years of commercial
                       React/TypeScript development. Team player with experience in leading distributed frontend teams. Focus on architecture, performance, stability, and user experience.</p><p>In my free time, I do many studies to keep my skills up-to-date, have wide knowledge in related fields. I participate in pet and open-source projects, mentor developers of all levels.</p>
                       Open source projects:
                       - <a href="https://create-html-boilerplate.dev/" target="_blank" rel="noopener norefferer" title="Create HTML boilerplate">Create HTML boilerplate</a>
                       - <a href="https://github.com/webtime-studio/gatsby-typescript-starter" target="_blank" rel="noopener norefferer" title="Create HTML boilerplate">Gatsby TypeScript template</a>
+
+           footer: |
                     <div align="center">
                         <h4>Front End Architect 🎓 Microsoft Azure Solutions Architect</h4>
                         <div>
@@ -66,7 +68,7 @@ jobs:
                     <a href="https://www.instagram.com/ckomop0x/"><img height="30" src="https://raw.githubusercontent.com/tinakuzmenko/tinakuzmenko/master/002-instagram.svg"></a>&nbsp;&nbsp;
                     <a href="https://www.codewars.com/users/ckomop0x/"><img height="30" src="https://www.codewars.com/users/ckomop0x/badges/micro"></a>
                     </p>
-           footer: "<p>Learn more about me at [ckomop0x.me](https://ckomop0x.me)!</p>"
+           repoCount: 0
            ref: "master"
            excludeActivity: '["WatchEvent"]'
            excludeRepo: '["ckomop0x/ckomop0x"]'
