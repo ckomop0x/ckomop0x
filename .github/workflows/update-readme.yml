@@ -17,7 +17,6 @@ jobs:
         node-version: [14.x]
     name: Get Plurasight Activity & Update GitHub Profile README
     steps:
-      - name:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
         with:
