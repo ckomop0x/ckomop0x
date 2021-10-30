@@ -5,7 +5,7 @@
   <li><a href="https://create-html-boilerplate.dev/" target="_blank" rel="noopener norefferer" title="Create HTML boilerplate">Create HTML boilerplate</a></li>
   <li><a href="https://github.com/webtime-studio/gatsby-typescript-starter" target="_blank" rel="noopener norefferer" title="Create HTML boilerplate">Gatsby TypeScript template</a></li>
 </ul>
-<p>Pluralsight activity: 339 hours, 42 minutes<p>
+<p>Pluralsight activity: 341 hours, 35 minutes<p>
 <div align="center">
     <h4>Front End Architect 🎓 Microsoft Azure Solutions Architect</h4>
     <div>
