@@ -28,8 +28,8 @@ jobs:
           echo "activity-value=$(node index.js)" >> $GITHUB_ENV
       - name: Get template header, subheader and footer
         run: |
-          echo "template-header=$(cat template/header.html)" >> $GITHUB_ENV 
-          echo "template-subheader=$(cat template/subheader.html)" >> $GITHUB_ENV 
+          echo "template-header=$(cat template/header.md)" >> $GITHUB_ENV 
+          echo "template-subheader=$(cat template/subheader.md)" >> $GITHUB_ENV 
       - uses: theboi/github-update-readme@main
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
