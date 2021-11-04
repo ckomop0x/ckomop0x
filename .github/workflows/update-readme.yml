@@ -31,7 +31,6 @@ jobs:
         with:
            customReadmeFile: >
                ${{ env.template-header }}
-              #  ${header}
 
                ${subhead}
 
