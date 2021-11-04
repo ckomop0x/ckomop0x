@@ -22,12 +22,16 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - run: yarn install --frozen-lockfile
       - run: echo "activity-value=$(node index.js)" >> $GITHUB_ENV
+      - name: Assign release version from version.properties to Env variable
+        run: |
+          echo "template-header=$(cat header.md)" >> $GITHUB_ENV 
       - uses: theboi/github-update-readme@main
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
            customReadmeFile: >
-               ${header}
+               ${{ env.template-header }}
+              #  ${header}
 
                ${subhead}
 
