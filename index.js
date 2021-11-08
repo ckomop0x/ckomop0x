@@ -11,8 +11,10 @@ const puppeteer = require('puppeteer');
   const value = await page.evaluate(el => el.textContent, element)
   const [hoursString, minutesString] = value.split('h')
   await browser.close();
+  const hours = !isNaN(parseInt(hoursString, 10)) ? parseInt(hoursString, 10) : 0;
+  const minutes = !isNaN(parseInt(minutesString, 10)) ? parseInt(minutesString, 10) : 0;
 
-  const resultText = `<p>Pluralsight activity: ${parseInt(hoursString, 10)} hours, ${parseInt(minutesString)} minutes<p>` || ''
+  const resultText = `<p>Pluralsight activity: ${hours} hours, ${minutes} minutes<p>` || ''
 
   console.log(resultText)
 })();
