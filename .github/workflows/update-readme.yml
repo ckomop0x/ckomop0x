@@ -29,7 +29,7 @@ jobs:
       - name: Get template header, subheader and footer
         run: |
           echo "template-header=$(cat template/header.md)" >> $GITHUB_ENV
-          echo "template-subheader=$(cat template/subheader.html)" >> $GITHUB_ENV
+          echo "template-subheader=$(cat template/subheader.md)" >> $GITHUB_ENV
           echo "template-footer=$(cat template/footer.md)" >> $GITHUB_ENV
       - uses: theboi/github-update-readme@main
         env:
