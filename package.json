@@ -8,16 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ckomop0x/theboi.git"
+    "url": "git+https://github.com/ckomop0x/ckomop0x.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ckomop0x/theboi/issues"
-  },
-  "homepage": "https://github.com/ckomop0x/theboi#readme",
   "dependencies": {
-    "puppeteer": "^10.4.0"
+    "playwright": "^1.17.1"
   }
 }

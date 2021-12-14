@@ -1,11 +1,10 @@
-const puppeteer = require('puppeteer');
+const { chromium } = require('playwright');
 
 (async () => {
-  const browser = await puppeteer.launch();
+  const browser = await chromium.launch();
   const page = await browser.newPage();
-  await page.goto('https://app.pluralsight.com/profile/ckomop0x', {
-    waitUntil: 'networkidle2',
-  });
+  await page.goto('https://app.pluralsight.com/profile/ckomop0x');
+  await page.waitForLoadState( 'networkidle')
   await page.waitForSelector('#profileBody')
   const element = await page.$('#profileBody h4')
   const value = await page.evaluate(el => el.textContent, element)
