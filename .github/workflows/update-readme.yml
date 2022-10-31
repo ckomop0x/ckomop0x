@@ -2,18 +2,17 @@ name: Update GitHub Profile README
 
 on:
   push:
-      branches:
-        - master
+    branches:
+      - master
   schedule:
     - cron: "0 4 * * *"
-
 
 jobs:
   build:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [14.x]
+        node-version: [18.x]
     name: Get Plurasight Activity & Update GitHub Profile README
     steps:
       - uses: actions/checkout@v2
@@ -33,17 +32,17 @@ jobs:
           echo "template-footer=$(cat template/footer.md)" >> $GITHUB_ENV
       - uses: theboi/github-update-readme@main
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-           customReadmeFile: >
-               ${{ env.template-header }}
+          customReadmeFile: >
+            ${{ env.template-header }}
 
-               ${{ env.template-subheader }}
+            ${{ env.template-subheader }}
 
-               ${{ env.activity-value }}
+            ${{ env.activity-value }}
 
-               ${{ env.template-footer }}
-           repoCount: 0
-           ref: "master"
-           excludeActivity: '["WatchEvent"]'
-           excludeRepo: '["ckomop0x/ckomop0x"]'
+            ${{ env.template-footer }}
+          repoCount: 0
+          ref: "master"
+          excludeActivity: '["WatchEvent"]'
+          excludeRepo: '["ckomop0x/ckomop0x"]'
