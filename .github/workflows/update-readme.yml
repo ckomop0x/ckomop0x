@@ -30,7 +30,7 @@ jobs:
           echo "template-header=$(cat template/header.md)" >> $GITHUB_ENV
           echo "template-subheader=$(cat template/subheader.md)" >> $GITHUB_ENV
           echo "template-footer=$(cat template/footer.md)" >> $GITHUB_ENV
-      - uses: theboi/github-update-readme@main
+      - uses: theboi/github-update-readme@v1.3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
