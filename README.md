@@ -8,22 +8,22 @@ Open source project: [Create HTML boilerplate](https://create-html-boilerplate.n
 
 <div align="center">
   <h4>Front End Architect 🎓 Microsoft Azure Solutions Architect</h4>
-  <a href="https://www.credly.com/badges/d06c47d3-ee53-4647-b26e-09f88d098692/public_url" target="_blank" rel="noopener noreferrer">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ckomop0x/977F7143424B759E?sharingId=3CFDD00970C13C88" target="_blank" rel="noopener noreferrer">
     <img src="https://images.credly.com/size/600x600/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" height="100" alt="Pavel Klochkov – Microsoft Azure Fundamentals"/>
   </a>
-  <a href="https://www.credly.com/badges/208878c5-e29f-4468-861e-318e9be4d3d9/public_url" target="_blank" rel="noopener noreferrer">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ckomop0x/884647BFF277A146?sharingId=3CFDD00970C13C88" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-administrator-associate-600x600.png" height="100" alt="Pavel Klochkov – Microsoft Azure Administrator"/>
   </a>
-  <a href="https://www.credly.com/badges/c2299b7d-48f7-40df-98da-a6b602146048/public_url" target="_blank" rel="noopener noreferrer">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ckomop0x/2349A0A200E305DD?sharingId=3CFDD00970C13C88" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-developer-associate-600x600.png" height="100" alt="Pavel Klochkov – Microsoft Azure Developer"/>
   </a>
-  <a href="https://www.credly.com/badges/b0f1dd43-db5c-41a8-a34a-93c45c56725f/public_url" target="_blank" rel="noopener noreferrer">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ckomop0x/60CAF844CF615E0B?sharingId=3CFDD00970C13C88" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-security-engineer-associate-600x600.png" height="100" alt="Pavel Klochkov – Microsoft Azure Security Engineer"/>
   </a>
-  <a href="https://www.credly.com/badges/8ae6bd71-d817-40d0-8e84-3919221728ec" target="_blank" rel="noopener noreferrer">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ckomop0x/8E5BADC6CFB60845?sharingId=3CFDD00970C13C88" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-solutions-architect-expert-600x600.png" height="100" alt="Pavel Klochkov – Microsoft Azure Solutions Architect"/>
   </a>
-  <a href="https://www.credly.com/badges/51dae55f-9180-48a1-a262-bb65016cbda7" target="_blank" rel="noopener noreferrer">
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/ckomop0x/FB1C9476F6A2941B?sharingId=3CFDD00970C13C88" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/ckomop0x/ckomop0x/master/azure-devops-engineer-expert-600x600.png" height="100" alt="Pavel Klochkov – Microsoft Azure DevOps Engineer Expert"/>
   </a>
 </div>
