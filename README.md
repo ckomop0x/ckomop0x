@@ -1,6 +1,6 @@
 ### Hello, I'm Pavel Klochkov
 
-In my free time, I do many studies to keep my skills up-to-date, have wide knowledge in related fields. I participate in pet and open-source projects, mentor developers of all levels.
+I do many studies in my free time to keep my skills up-to-date. I participate in pet and open-source projects and mentor developers of all levels.
 
 Open source project: [Create HTML boilerplate](https://create-html-boilerplate.netlify.app/)
 
